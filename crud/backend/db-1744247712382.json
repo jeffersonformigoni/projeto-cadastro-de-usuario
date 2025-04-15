@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jefferson Pereira Formigoni",
+      "email": "jefferson@example.com",
+      "cel": "11999999999",
+      "password": "senha123"
+    },
+    {
+      "id": 2,
+      "name": "Gislaine Pereira Formigoni",
+      "email": "gislaine@example.com",
+      "cel": "11988888888",
+      "password": "senha123"
+    },
+    {
+      "id": 3,
+      "name": "Allana Pereira Formigoni",
+      "email": "allana@example.com",
+      "cel": "11977777777",
+      "password": "senha123"
+    },
+    {
+      "id": 4,
+      "name": "Lavinía Pereira Formigoni",
+      "email": "lavinia@example.com",
+      "cel": "11966666666",
+      "password": "senha123"
+    },
+    {
+      "id": 5,
+      "name": "Leticia Pereira Formigoni",
+      "email": "leticia@example.com",
+      "cel": "11955555555",
+      "password": "senha123"
+    },
+    {
+      "id": 6,
+      "name": "Luiz Pereira Formigoni",
+      "email": "luiz@example.com",
+      "cel": "11944444444",
+      "password": "senha123"
+    },
+    {
+      "id": 7,
+      "name": "Lucca Pereira Formigoni",
+      "email": "lucca@example.com",
+      "cel": "11933333333",
+      "password": "senha123"
+    }
+  ]
+}

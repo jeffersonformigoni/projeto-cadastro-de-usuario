@@ -8,4 +8,11 @@ aside.logo {
 aside.logo img {
     padding: 0px 15px;
     width: 100%;
+    margin: 5px;    
+}
+
+@media {
+    aside.log img {
+        width: 500px;
+    }
 }
